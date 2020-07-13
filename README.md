@@ -5,14 +5,14 @@
 
 ## Hi Peoples👋, Welcome my Github!
 
-Learning more about this tecnology, security and development, how javascript, python, html and css and your frameworks bootstrap, jquery and more,
-on the my prfile, has some repositories of class and my studies in the area.
-I study postgraduate in information security, graduated in Science Computer.
+Initializing in development in this year with python.
+Now learning more about this tecnology, security and development, how javascript, python, html and css and your frameworks bootstrap, jquery, kali and your tools
+on the my profile, has some repositories of class and my studies in the area.
+I studying postgraduate in information security, graduated in Science Computer.
 
-- 📍 Natural of São Paulo-SP
-- 🎓 Bacharel em Ciência da Computação.
-- 🔭 I’m currently working on Analyst of Operation
-- 💻 I’m currently learning HTML5|CSS3|JS|Python AND MORE...
-- 🤔 I’m looking for help with learning more javascript, and your frameworks...
-- 📫 How to reach me: vini_santos7@live.com
+- 📍 Natural of São Paulo-SP.
+- 🎓 Graduaded in Science Computer at **Uninove**|Studying Postgraduate Information Security at **Senac**.
+- 🔭 I’m currently working on Analyst of Operation at **SPC Brasil**.
+- 💻 I’m currently learning Python|JS in **Cursom em Video**, HTML5|CSS3|JS| Bootcamp in **Digital Inovation One** and **RocketSeat**, and your documentantions.
+- 📫 How to reach me: vini_santos7@live.com.
 -->
