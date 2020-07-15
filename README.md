@@ -8,7 +8,7 @@
 ## Hi Peoples👋, Welcome my Github!
 
 Initializing in development in this year with python.
-Now learning more about this tecnology, security and development, how javascript, python, html and css and your frameworks bootstrap, jquery, kali and your tools
+Now learning more about this tecnology, security and development, how javascript, python, html and css and your frameworks bootstrap, jquery, kali and your tools,
 on the my profile, has some repositories of class and my studies in the area.
 I studying postgraduate in information security, graduated in Science Computer.
 
