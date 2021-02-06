@@ -1,20 +1,22 @@
 # :octocat::computer: Vinicius Santos
 
 # Hello People👋
-### Welcome to my Github! 
+### Welcome to my Github!
+
 
 I'm started developing in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
 
 Now I'm learning more about technology, security and development, like ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
 my profile, has some repositories of class and my studies in the area.
-I'm studying actually english at KNN School , graduated in Science Computer.
+I'm studying actually english at KNN English School , graduated in Science Computer.
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
 - :computer::keyboard::office: I’m working at IPEN\USP with Support Analyst
-- :desktop_computer: I’m currently learning Python and JavaScript at **Cursom em Video** | Front-end (HTML5, CSS3) at **RocketSeat**, **Origamid** and their documentations. I have too interests in others technologies for my development!
+- :desktop_computer: I’m currently learning Python and JavaScript at **Cursom em Video** | Front-end (HTML5, CSS3) at **RocketSeat**, **Origamid** and their documentations. I have many interests in others technologies for my development, follow below!
 - :e-mail: How to reach me: vini_santos7@live.com.
--->
+
+<p>&nbsp;&nbsp;</p>
 
 # Contacts:point_down:	
 
@@ -22,6 +24,8 @@ I'm studying actually english at KNN School , graduated in Science Computer.
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vinisantos7)](https://github.com/vinisantos7)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SantosVini7)](https://twitter.com/SantosVini7)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)](https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)
+
+<p>&nbsp;&nbsp;</p>
 
 # :computer: Technologies and Interests :brain:
 
@@ -35,3 +39,13 @@ I'm studying actually english at KNN School , graduated in Science Computer.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+<p>&nbsp;&nbsp;</p>
+
+<a href="https://github.com/vinisantos7">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinisantos7&show_icons=true&theme=highcontrast" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinisantos7&theme=highcontrast&layout=compact&exclude_lang=java+r%22" />
+</a>
+</p>
+
+  
