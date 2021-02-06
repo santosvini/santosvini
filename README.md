@@ -1,16 +1,16 @@
 # :octocat::computer: Vinicius Santos
 
-# Hi Peoples👋
+# Hello Peoples👋
 ### Welcome my Github! 
 
 I'm Initializing in development in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
 
-Now learning more about this tecnology, security and development, how ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
+Now learning more about this tecnology, security and development, how ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
 on the my profile, has some repositories of class and my studies in the area.
-I studying actually english :uk: at KNN School , graduated in Science Computer.
+I studying actually english at KNN School , graduated in Science Computer.
 
 - :round_pushpin:	Natural of São Paulo-SP.
-- :tophat: Graduaded in Science Computer at **Uninove**
+- :man_student: Graduaded in Science Computer at **Uninove**
 - :computer::keyboard::office: I’m working at IPEN\USP with Support Analyst
 - :desktop_computer: I’m currently learning Python | JavaScript in **Cursom em Video**| HTML5 | CSS3 | I study front-end at **RocketSeat** and **Origamid** and your documentantions.
 - :e-mail: How to reach me: vini_santos7@live.com.
@@ -23,4 +23,15 @@ I studying actually english :uk: at KNN School , graduated in Science Computer.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SantosVini7)](https://twitter.com/SantosVini7)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)](https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)
 
-# Technologies and Interests ::
+# :computer: Technologies and Interests :brain:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
