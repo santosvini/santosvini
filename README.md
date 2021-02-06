@@ -1,13 +1,13 @@
 # :octocat::computer: Vinicius Santos
 
-# Hello Peoples👋
-### Welcome my Github! 
+# Hello People👋
+### Welcome to my Github! 
 
-I'm Initializing in development in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
+I'm started developing in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
 
-Now learning more about this tecnology, security and development, like ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
+Now I'm learning more about technology, security and development, like ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
 my profile, has some repositories of class and my studies in the area.
-I studying actually english at KNN School , graduated in Science Computer.
+I'm studying actually english at KNN School , graduated in Science Computer.
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
