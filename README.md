@@ -12,8 +12,8 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
-- :computer::keyboard::office: I’m working at IPEN\USP with Support Analyst
-- :desktop_computer: I’m currently learning Python and JavaScript at **Cursom em Video** | Front-end (HTML5, CSS3) at **RocketSeat**, **Origamid** and their documentations. I have many interests in others technologies for my development, follow below!
+- :computer::keyboard::office: I’m working at TVF/Estapar with QA Analyst
+- :desktop_computer: I’m currently learning Python and JavaScript at **Curso em Video** | Front-end (HTML5, CSS3, JS) at **RocketSeat**, **Origamid** and their documentations. I have many interests in others technologies for my development, follow below!
 - :e-mail: How to reach me: vini_santos7@live.com.
 
 <p>&nbsp;&nbsp;</p>
@@ -43,7 +43,7 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 <p>&nbsp;&nbsp;</p>
 
 <a href="https://github.com/santosvini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santosvini&show_icons=true&theme=highcontrast" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosvini=compact" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santosvini&theme=highcontrast&layout=compact&exclude_lang=java+r%22" />
 </a>
 </p>
