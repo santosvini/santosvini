@@ -42,9 +42,9 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 
 <p>&nbsp;&nbsp;</p>
 
-<a href="https://github.com/vinisantos7">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinisantos7&show_icons=true&theme=highcontrast" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinisantos7&theme=highcontrast&layout=compact&exclude_lang=java+r%22" />
+<a href="https://github.com/santosvini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santosvini&show_icons=true&theme=highcontrast" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santosvini&theme=highcontrast&layout=compact&exclude_lang=java+r%22" />
 </a>
 </p>
 
