@@ -43,8 +43,8 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 <p>&nbsp;&nbsp;</p>
 
 <a href="https://github.com/santosvini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosvini=compact" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santosvini&theme=highcontrast&layout=compact&exclude_lang=java+r%22" />
+  <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=vue-dark&show_icons=true)"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santosvini&theme=highcontrast&layout=compact&exclude_lang=java+r%22"/>
 </a>
 </p>
 
