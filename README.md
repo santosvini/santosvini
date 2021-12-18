@@ -21,7 +21,7 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 # Contacts:point_down:	
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-santos-12249198/)](https://www.linkedin.com/in/vinicius-santos-12249198/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vinisantos7)](https://github.com/vinisantos7)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/santosvini)](https://github.com/santosvini)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SantosVini7)](https://twitter.com/SantosVini7)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)](https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)
 
