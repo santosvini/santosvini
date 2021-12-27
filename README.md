@@ -42,6 +42,10 @@ I'm studying actually english at KNN English School , graduated in Science Compu
 <p>&nbsp;&nbsp;</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=vue&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosvini&theme=vue" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=great-gatsby&show_icons=true)<p>&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=lampada&theme=great-gatsby&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=imc&theme=great-gatsby&show_icons=true)<p>&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=devfinance&theme=great-gatsby)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=cadastro-ignicao&theme=great-gatsby&&show_icons=true)<p>&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=collor-pallet&theme=great-gatsby)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=projeto-android&theme=great-gatsby&show_icons=true)
