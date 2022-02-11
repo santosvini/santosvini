@@ -3,12 +3,16 @@
 # Hello People👋
 ### You are welcome this Github!
 
+![followers](https://img.shields.io/github/followers/santosvini?style=social)
+![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSantosVini7)
 
-I'm started developing in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
+I'm return develop in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
 
-Now I'm learning more about technology, security and development, like ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), 
-my profile, has some repositories of class and my studies in the area.
-I'm studying actually english at KNN English School , graduated in Science Computer.
+Now I'm learning more about technology, security and development, like 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), 
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and 
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) my profile, has some repositories of class and my studies in the area.
+I'm studying actually english at KNN English School, graduated in Science Computer.
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
