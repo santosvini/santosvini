@@ -6,8 +6,6 @@
 ![followers](https://img.shields.io/github/followers/santosvini?style=social)
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSantosVini7)
 
-I'm return develop in 2020 with ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white).
-
 Now I'm learning more about technology, security and development, like 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and 
@@ -16,8 +14,8 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
-- :computer::keyboard::office: I’m working at TVF/Estapar with QA Analyst
-- :desktop_computer: I’m currently learning Python and JavaScript at **Curso em Video** | Front-end (HTML5, CSS3, JS) at **RocketSeat**, **Origamid** and their documentations. I have many interests in others technologies for my development, follow below!
+- :computer::keyboard::office: I’m working at Prime Control/Estapar with QA Analyst
+- :desktop_computer: I’m currently learning Front-End **Origamid** and their documentations. I have many interests in others technologies for my development, follow below, and study about frameworks automations how, ```Cypress```, ```Robot Framework```.
 - :e-mail: How to reach me: vini_santos7@live.com.
 
 <p>&nbsp;&nbsp;</p>
@@ -42,14 +40,14 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
 
 <p>&nbsp;&nbsp;</p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=great-gatsby&show_icons=true)<p>&nbsp;
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=great-gatsby&show_icons=true)<p>&nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=lampada&theme=great-gatsby&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=imc&theme=great-gatsby&show_icons=true)<p>&nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=devfinance&theme=great-gatsby)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=cadastro-ignicao&theme=great-gatsby&&show_icons=true)<p>&nbsp;
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=collor-pallet&theme=great-gatsby)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=projeto-android&theme=great-gatsby&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=projeto-android&theme=great-gatsby&show_icons=true) -->
