@@ -6,11 +6,16 @@
 ![followers](https://img.shields.io/github/followers/santosvini?style=social)
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSantosVini7)
 
-Now I'm learning more about technology, security and development, like 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and 
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) my profile, has some repositories of class and my studies in the area.
-I'm studying actually english at KNN English School, graduated in Science Computer.
+I love learning about technology, devops and development, like 
+- ```Node```
+- ```Bootstrap``` 
+- ```Vue```
+- ```Postman```
+- ```Insomnia``` and my favorite framework
+- ```Cypress```
+
+my profile, has some repositories of class and my studies in the area.
+I'm studying actually cypress, robot framwework, CFTL certification and frameworks front-end, and too devops routines.
 
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
@@ -29,7 +34,7 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 
 <p>&nbsp;&nbsp;</p>
 
-# :computer: Technologies and Interests :brain:
+# :computer: Technologies :brain:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,13 +46,13 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
+![SQL Server](https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)
+![Azure Devops](https://camo.githubusercontent.com/e635c8509d513fd5ed5c9127dadd45efa44cc00a2be24da4e71bfd8afe58c631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465)
+![Github Actions](https://camo.githubusercontent.com/10fbc037dc192b6e84b8bcd8b9eb1762841606a8e5476cbf1fe4d5fcb17fed48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![VS Code](https://img.shields.io/badge/VisualStudioCode-3d85c6?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
+![JSON](https://camo.githubusercontent.com/e0fe31b4bf5a7cffb35f18ee50fcdbe1f61bde74f893781502ba2bf708f270f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465)
 
 <p>&nbsp;&nbsp;</p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=great-gatsby&show_icons=true)<p>&nbsp;
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=lampada&theme=great-gatsby&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=imc&theme=great-gatsby&show_icons=true)<p>&nbsp;
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=devfinance&theme=great-gatsby)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=cadastro-ignicao&theme=great-gatsby&&show_icons=true)<p>&nbsp;
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=collor-pallet&theme=great-gatsby)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=santosvini&repo=projeto-android&theme=great-gatsby&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=chartreuse-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santosvini&theme=chartreuse-dark&show_icons=true)
