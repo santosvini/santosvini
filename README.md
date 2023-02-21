@@ -15,7 +15,7 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 - :round_pushpin:	Natural of São Paulo-SP.
 - :man_student: Graduaded in Science Computer at **Uninove**
 - :computer::keyboard::office: I’m working at Prime Control/Estapar with QA Analyst
-- :desktop_computer: I’m currently learning Front-End **Origamid** and their documentations. I have many interests in others technologies for my development, follow below, and study about frameworks automations how, ```Cypress```, ```Robot Framework```.
+- :desktop_computer: I’m currently learning Front-End **Origamid** and their documentations. I have many interests in others technologies for my development, follow below, and study about frameworks automations how, ```Cypress``` and ```Robot Framework```.
 - :e-mail: How to reach me: vini_santos7@live.com.
 
 <p>&nbsp;&nbsp;</p>
@@ -31,9 +31,9 @@ I'm studying actually english at KNN English School, graduated in Science Comput
 
 # :computer: Technologies and Interests :brain:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-782dbf?style=for-the-badge&logo=Bootstrap&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
