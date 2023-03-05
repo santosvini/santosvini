@@ -11,7 +11,8 @@ I love learning about technology, devops and development, like
 - ```Bootstrap``` 
 - ```Vue```
 - ```Postman```
-- ```Insomnia``` and my favorite framework
+- ```Insomnia``` 
+and my favorite framework
 - ```Cypress```
 
 my profile, has some repositories of class and my studies in the area.
