@@ -60,5 +60,6 @@ I'm studying actually cypress, robot framwework, CFTL certification and framewor
 
 <p>&nbsp;&nbsp;</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santosvini&theme=chartreuse-dark&show_icons=true)](https://github.com/santosvini/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=vision-friendly-dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santosvini&theme=vision-friendly-dark&show_icons=true&repo=devfinance)](https://github.com/santosvini/devfinance)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santosvini&theme=chartreuse-dark&show_icons=true)](https://github.com/santosvini/github-readme-stats) -->
