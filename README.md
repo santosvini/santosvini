@@ -26,16 +26,16 @@ I'm studying actually cypress, robot framwework, CFTL certification and framewor
 
 <p>&nbsp;&nbsp;</p>
 
-# Contacts:point_down:	
+# Contacts 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-santos-12249198/)](https://www.linkedin.com/in/vinicius-santos-12249198/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-santos-12249198/)](https://www.linkedin.com/in/vinidsantos/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/santosvini)](https://github.com/santosvini)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SantosVini7)](https://twitter.com/SantosVini7)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)](https://api.whatsapp.com/send?phone=5511956092628&text=Olá!%20Vinicius)
 
 <p>&nbsp;&nbsp;</p>
 
-# :computer: Technologies :brain:
+# 💻 Technologies 🧠
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,4 +62,3 @@ I'm studying actually cypress, robot framwework, CFTL certification and framewor
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvini&theme=vision-friendly-dark&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santosvini&theme=vision-friendly-dark&show_icons=true&repo=devfinance)](https://github.com/santosvini/devfinance)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=santosvini&theme=chartreuse-dark&show_icons=true)](https://github.com/santosvini/github-readme-stats) -->
