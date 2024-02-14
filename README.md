@@ -44,7 +44,6 @@ I'm studying actually cypress, robot framwework, CFTL certification and framewor
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL Server](https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)
